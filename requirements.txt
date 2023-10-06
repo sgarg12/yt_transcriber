@@ -1,0 +1,11 @@
+uvicorn==0.23.2
+fastapi==0.103.2
+dramatiq==1.14.2
+SQLAlchemy==2.0.21
+yt-dlp==2023.9.24
+minio==7.1.17
+pydantic-settings==2.0.3
+pydantic==2.4.2
+transformers==4.28.1
+torch==2.0.1
+torchaudio==2.0.2
